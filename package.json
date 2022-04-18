@@ -1,6 +1,6 @@
 {
   "name": "@wisegar-org/wgo-templating",
-  "version": "0.0.1-build.0",
+  "version": "0.0.1-build.1",
   "description": "WGO Templating Module",
   "main": "build/index.js",
   "scripts": {
