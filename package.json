@@ -3,6 +3,10 @@
   "version": "0.0.1-build.3",
   "description": "WGO Templating Module",
   "main": "build/index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "start": "nodemon",
     "build": "npx rimraf ./build && tsc",
